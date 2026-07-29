@@ -2,6 +2,8 @@
 
 **Cloud & DevOps Engineer · AWS**
 
+![Metrics](./github-metrics.svg)
+
 I design, build and operate production-grade AWS platforms. My work covers the full arc: multi-account organization design, infrastructure as code for every resource, containerized workloads, and the testing that proves an environment survives real failures before users ever depend on it.
 
 ---
