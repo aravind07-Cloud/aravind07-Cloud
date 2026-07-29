@@ -42,3 +42,4 @@ I design, build and operate production-grade AWS platforms. My work covers the f
 ---
 
 📍 Canada · Home region: `ca-central-1`
+
